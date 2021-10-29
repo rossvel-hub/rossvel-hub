@@ -1,6 +1,6 @@
 # Hi friends. I'm Alma Velazquez 👋
 
-
+![Screenshot](Purple and Pink Organic and Handcrafted Welcome Message Elementary Back to School Banner.png)
 
 
 >**rossvel-hub/rossvel-hub** 
