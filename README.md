@@ -1,4 +1,4 @@
-# Hi friends. I'm Alma Velazquez 👋
+# Hi friends. I'm Alma Velazquez 👋🤓🥳👨‍🎓
 
 
 
@@ -7,12 +7,8 @@
 </p>
 
 
-
-
-
->**rossvel-hub/rossvel-hub** 
->😄Soy Alma, front end Developer. Pieso que la creacion de Software es como la vida misma, cada iteracion nos lleva a un crecimiento positivo.
-El mayor riesgo es no descubrir en que podemos convertimos,
+>😄**Pieso que la creacion de Software es como la vida misma, cada iteracion nos lleva a un crecimiento positivo.
+El mayor riesgo es no descubrir en que podemos convertimos...**
 
 >Here are some ideas to get you started:
 
