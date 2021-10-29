@@ -1,12 +1,12 @@
 # Hi friends. I'm Alma Velazquez 👋
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+
 
 <p align="center">
-  ![stack Overflow](https://github.com/rossvel-hub/rossvel-hub/blob/main/REadMee.PNG)
+  <img src="https://github.com/rossvel-hub/rossvel-hub/blob/main/REadMee.PNG" alt="My cool logo"/>
 </p>
 
-![Screenshot](Purple and Pink Organic and Handcrafted Welcome Message Elementary Back to School Banner.png)
+
 
 
 
