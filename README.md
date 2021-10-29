@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi friends. I'm Alma Velazquez 👋
 
-<!--
-**rossvel-hub/rossvel-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+>**rossvel-hub/rossvel-hub** 
+>😄Soy Alma, front end Developer. Pieso que la creacion de Software es como la vida misma, cada iteracion nos lleva a un crecimiento positivo.
+El mayor riesgo es no descubrir en que podemos convertimos,
+
+>Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
