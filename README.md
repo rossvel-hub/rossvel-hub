@@ -1,5 +1,5 @@
 <h2 align="center">
-# Hi friends. I'm Alma Velazquez Frontend Developer 💻 👋🤓🥳👨‍🎓
+# Hi friends. I'm Alma Velazquez. Front-end Developer 💻 👋🤓🥳👨‍🎓
 </h2> 
 
 
