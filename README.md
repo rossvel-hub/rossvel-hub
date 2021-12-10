@@ -47,11 +47,6 @@ The biggest risk is not discovering what we can become...**
 </br>
 
 
-## 👨‍💻 All of my projects are available at /link/
-
-## 📝 I regularly write articles on /link/
-
-
 ---</br>
 
 </br>
