@@ -42,12 +42,12 @@ The biggest risk is not discovering what we can become...**
 - Almita, Almidon
 
 ## ⚡ Fun fact: 
--
+- When I watch Korean dramas (doramas) I always crave to eat ramen.
+- My personal magic is finding treasures that my soul yearns for.
 
 </br>
 
-
----</br>
+</br>
 
 </br>
 
