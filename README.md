@@ -9,7 +9,7 @@
 
 >#ABOUT ME
 >😄**I think that the creation of Software is like life itself, each iteration leads to positive growth.
-The biggest risk is not discovering what we can become...**
+The biggest risk is not discovering what we can become...we will iterate**
 
 ### 🤝 Connect with me:
 
